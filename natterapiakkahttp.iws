@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d2b57f3-5f49-41c1-8bc4-c08e6e51a949" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/natterapiakkahttp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/natterapiakkahttp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/natterapiakkahttp.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/natterapiakkahttp.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/natterapiakkahttp.iws" beforeDir="false" afterPath="$PROJECT_DIR$/natterapiakkahttp.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/manning/apisecurityinaction/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/manning/apisecurityinaction/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7d2b57f3-5f49-41c1-8bc4-c08e6e51a949" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -200,7 +193,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5003000" />
+    <option name="totallyTimeSpent" value="5398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="23" width="1513" height="921" extended-state="0" />
