@@ -16,6 +16,8 @@ The master branch is the base at the begining of the code examples. This current
 
 _2019-06-12_: This is the first release of the code and it only includes the basic maven setup and database initialization. This is the basis from which the chapters will be branched. The content here is through section 2.1.4 of the book.
 
+There are some changes from the book code owing to my working in OpenJDK 1.8 (instead of Java 11) to support some legacy services that need a refresh. 
+
 
 
 
