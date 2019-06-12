@@ -6,3 +6,17 @@ I've found the early release of API Security in Action by Neil Madden very helpf
 Any errors found here are my own and entirely unrelated to Neil Madden and Manning Publishing.
 
 
+## Branches
+
+### master
+The master branch is the base at the begining of the code examples. This currently has the maven setup and database initialization through section 2.1.4 of the book
+
+
+## Release Notes:
+
+_2019-06-12_: This is the first release of the code and it only includes the basic maven setup and database initialization. This is the basis from which the chapters will be branched. The content here is through section 2.1.4 of the book.
+
+
+
+
+
